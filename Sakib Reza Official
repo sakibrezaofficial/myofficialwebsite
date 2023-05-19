@@ -97,7 +97,6 @@
             <div class="col-lg-6">
               <div class="home-text">
                 <h4>HELLO, I'M SAKIB</h4>
-                <h1>MARK PARKER</h1>
                 <p>A Freelance UI Designer & Web Developer</p>
                 <div class="home-btn">
                   <a href="#" class="btn-1">view my work</a>
@@ -119,9 +118,8 @@
                 <div class="header-social-icon">
                   <ul>
                     <li><a href="facebook.com/sakibrezamdsr"><i class="fab fa-facebook-f"></i></a></li>
-                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                    <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                    <li><a href="#"><i class="fab fa-linkedin"></i></a></li>         
+                    <li><a href="https://www.instagram.com/sakibreza_official/"><i class="fab fa-instagram"></i></a></li>
+                    <li><a href="#"><i class="https://www.youtube.com/sakibrezaofficial24/"></i></a></li>    
                   </ul>
                 </div>
               </div>
@@ -320,9 +318,11 @@
               <i class="fas fa-laptop"></i>
             </div>
             <h3>web design</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam quasi corporis
-               amet eligendi minima, omnis, ratione doloribus autem nemo provident
-               soluta vel illum magnam numquam?</p>
+            <p>I am a skilled web designer with expertise in creating visually appealing and user-friendly websites. 
+            With a keen eye for detail and a passion for innovative design, I strive to deliver captivating online experiences. 
+            I have a strong understanding of current web design trends, responsive layouts, and usability principles. 
+            My goal is to craft websites that not only showcase my clients' brands effectively but also provide seamless navigation and optimal functionality. 
+            I am dedicated to delivering high-quality designs that leave a lasting impression.</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
@@ -331,9 +331,11 @@
               <i class="fas fa-edit"></i>
             </div>
             <h3>video editing</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam quasi corporis
-               amet eligendi minima, omnis, ratione doloribus autem nemo provident
-               soluta vel illum magnam numquam?</p>
+            <p>I am also a skilled video editor with a passion for storytelling. With years of experience, I bring creativity, technical expertise, 
+            and attention to detail to every project. I excel in editing various genres, including commercials, documentaries, and short films. 
+            My proficiency in industry-standard software allows me to craft visually stunning and impactful videos that captivate audiences. 
+            Whether it's enhancing footage, adding special effects, or creating seamless transitions, I strive to deliver high-quality results 
+            that exceed expectations. Let's bring your vision to life through the power of video editing.</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
@@ -342,9 +344,10 @@
               <i class="fas fa-code"></i>
             </div>
             <h3>web development</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam quasi corporis
-               amet eligendi minima, omnis, ratione doloribus autem nemo provident
-               soluta vel illum magnam numquam?</p>
+            <p>I am a skilled web developer with expertise in creating innovative and user-friendly websites. With a strong background in coding languages
+            such as HTML, CSS, and JavaScript, I specialize in designing responsive and visually appealing interfaces. I am proficient in various frameworks 
+            and CMS platforms, enabling me to develop dynamic and interactive websites. My attention to detail, problem-solving abilities, and passion for 
+            creating seamless online experiences make me a valuable asset in the field of web development.</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
@@ -353,9 +356,11 @@
               <i class="fas fa-paint-brush"></i>
             </div>
             <h3>graphic design</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam quasi corporis
-               amet eligendi minima, omnis, ratione doloribus autem nemo provident
-               soluta vel illum magnam numquam?</p>
+            <p>As a graphic designer, I possess a keen eye for aesthetics and a passion for creative expression. With a solid foundation 
+            in design principles and proficiency in industry-standard software, I craft visually captivating designs that effectively 
+            communicate messages and captivate audiences. I am adept at creating logos, branding materials, marketing collateral, and 
+            digital graphics, always striving to achieve a harmonious balance between form and function. With a strong attention to detail 
+            and a collaborative mindset, I consistently deliver high-quality designs that exceed client expectations and leave a lasting impact.</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
@@ -364,9 +369,12 @@
               <i class="fas fa-bullhorn"></i>
             </div>
             <h3>digital marketing</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam quasi corporis
-               amet eligendi minima, omnis, ratione doloribus autem nemo provident
-               soluta vel illum magnam numquam?</p>
+            <p>I am an experienced digital marketer with a passion for driving online success. With a deep understanding 
+            of the digital landscape, I specialize in creating and implementing effective marketing strategies across 
+            various digital channels.From social media marketing and search engine optimization (SEO) to email marketing 
+            and content creation, I strive to maximize brand visibility, engagement, and conversions. With a data-driven 
+            approach and a focus on ROI, I continuously analyze campaign performance and optimize strategies for optimal 
+            results. Let me help you harness the power of digital marketing to elevate your brand and achieve your business goals.</p>
           </div>
         </div>
       </div>
@@ -662,18 +670,18 @@
               <h3>For Any Queries and Support</h3>
               <div class="contact-info-item">
                 <i class="fas fa-location-arrow"></i>
-                <h4>Company Location</h4>
-                <p>199 xyz gali, Habiganj, Bangladesh</p>
+                <h4>Location</h4>
+                <p>Baniyachong, Habiganj, Bangladesh</p>
               </div>
               <div class="contact-info-item">
                 <i class="fas fa-envelope"></i>
-                <h4>Write to us at</h4>
-                <p>sakibrezaofficial@outlook.com</p>
+                <h4>Write to me at</h4>
+                <p>rezasakibmdsr@gmail.com</p>
               </div>
               <div class="contact-info-item">
                 <i class="fas fa-phone"></i>
-                <h4>Call us on</h4>
-                <p>+880 1234 565 452</p>
+                <h4>Call me on</h4>
+                <p>+880 1913782936</p>
               </div>
             </div>
           </div>
@@ -730,7 +738,7 @@
        <div class="container">
          <div class="row">
            <div class="col-lg-12">
-             <p class="copyright-text">&copy; 2024 by MD. Sakib Reza</p>
+             <p class="copyright-text">&copy; by MD. Sakib Reza</p>
            </div>
          </div>
        </div>
